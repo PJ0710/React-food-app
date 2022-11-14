@@ -10,7 +10,7 @@ const Header = (props) => {
     <Fragment>
       <header className={classes.header}>
         <Link to="/">
-          <h1 style={{ color: "white" }}>KHAALO</h1>
+          <h1 style={{ color: "white" }}>ZAPPY</h1>
         </Link>
         <Link to="meals">
           <h2 style={{ color: "white" }}>Meals</h2>

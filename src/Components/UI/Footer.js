@@ -12,7 +12,7 @@ export default function Footer() {
           <section style={{ textAlign: "center" }}>
             <h6>
               <b>
-                KHAALO is a food delivery service with the largest network of
+                ZAPPY is a food delivery service with the largest network of
                 restaurants in your city.
               </b>
             </h6>
@@ -27,7 +27,7 @@ export default function Footer() {
         >
           © 2022 Copyright: &nbsp;
           <Link to="/" style={{ textDecoration: "none", color: "white" }}>
-            KHAALO
+            ZAPPY
           </Link>
         </div>
       </MDBFooter>
